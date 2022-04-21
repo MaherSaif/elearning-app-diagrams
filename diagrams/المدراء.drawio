@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T12:16:12.654Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Kgko73m1e__NZTvLipYv" version="17.4.6" type="github"><diagram id="nDNJL3_B4G6pBPuI-Msn" name="Page-1">7Vpbc5s4FP41zOw+OCNxM340cS7dZrszm+zubN8wyMAEkAv4kv76HglxlZw4UztOW8czGH06COmcT+ciRzMu0+1N7i2jP2lAEk1HwVYzZpquOzqGKwOeKgAjZFVImMeBwFrgPv5KakGBruKAFD3BktKkjJd90KdZRvyyh3l5Tjd9sQVN+m9deiGRgHvfS2T0vzgoI7EuC7X4LYnDqH4zLLDqSb1aWABF5AV004GMK824zCktq7t0e0kSprxaL9Vz1zt6m4nlJCv3ecAIouX2A71D/v92eGNa+J9kNKrVvPaSlVixNnO06VibTTTH5FeLI9fs6uK6F65iBkX5VCurKHP62OgJa4bbLBpBI/CKiASi4SVxmMG9D9MnOQBRmSbtU0s2ZLoNGasuUuo/rpYXYOPSizOSFxebOOPjNsMkZAFacNckL2Ow3lTAJV2y8ZaeH2fhHZeBqQPCZ3pJE5rrfO4GQo6/WPS7jKrLN9kHuhYwAd5R4Tb/AzyFWT2QLTdDJSWIjMfQTrw5SVzPfwxzusqCeoCMZoS97pGUfiSUIttUKJmti2w7kLDxDaEpKfMnEBG9E2HResMZRtXetOy1a0pGHebq9ljsGrFjwmbollRwI3il5pg7vhoHH/769EdO/QI9/btx7z+OdFvmmG4nzFylNwfuwO6FYZZeEICRuID9ZcW2hWu2t0JKmLInhXpSc5oHJO8J4J5AS9gaZBYbFdxkUxDAJIVrJSzUxmG2ta2mp1Zet6t9ix2K72qdcwoecAjmEhIMkbkkAyaQxWCKNdLbvXDv1PsWkKnYybCEoZjV2fAGR6adBx1+tcUgnZlEr5gJ9xquIXzKc4MwUFbOc+piI09aD+UC5dCoXue07WZurFIEn1ZHaMaFEO/Azyu7QQhs/ARrJirikoB7Svd8ru9Wa8MwmvL3T59//7vRzr7k7OtLP7y+9Nfri4GqTcnwyinVOJLCnDrI1JEor9yCS0FskfDgt4iZx+wFBl20r700TpivviXJmrBhpVDYBtAmVuDDxAqs94OFbiIpWFiGIlhg5BwrWDg7g0WE93HeoJKtwhG/IqlpiMBeWLNgQIGSR/ueodq0oQ3uzPDDeN8EMKttPTAGzUY8tGwi2Bz3gLNXbSD/6XMpioOAAM9cnkw06dRunnRYpyMFTw/AI9O2+jxCMo+wY8k8Mg6Qc3wysltseOsv4d3n9df1Q3FTfhxZ57T23aW1Ep8UrNs3rTUNmWHKtNZw0JEoNj6eozJElBbRFu2Of7+kr/ouIg19lTkZn9hXTdS+an8SvK27mq/KkmaF+JbY1HUgA8ey4H+SY6kGuhcL4FRRuBveFjJ4QNeun1NR8gC0kVIlVYhTpUp1/X1w2uw6upkJxjByOGdyvAU5rAE5xtapyaG/dK4n1+MDovRdtkpxHTYM85MUHD8bSHLgw1Rjwj5tbPlbqAYfKGswBmmDZesXlmQa3VaYxjxW3sCe35E4gBYyZergVypjaUMezn/DrEqC+V2yo6f+/e/N+dTwUMt+uS469nFRtb4dacpPSbgmJz0d3Yx3RbeKL90irGIKMGgiEa1OeFpaDbLeX5BQ45MTynwhtJxr6x+7tnYUp4BvXFvrivObQxXXz513nwvt4xXaE3TqQlv1Q+S5YnoXFRPG9slLJsWB3rlk0ifjd1Ay7f5R6Fwy/WyEw0hxtv/GfFMcyZ5rph+YUc7xGAXN9n/4eF/nPyGNq28=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-21T12:17:13.378Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="MWRqSm7RTdDKsXr0A1h3" version="17.4.6" type="github">
+  <diagram id="nDNJL3_B4G6pBPuI-Msn" name="Page-1">
+    <mxGraphModel dx="821" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3dhpxIoL0cY6gG451Ul--10" value="المدراء" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="133" width="620" height="267" as="geometry" />
+        </mxCell>
+        <mxCell id="B7E7dIONJrocs0yVwBSK-26" value="&lt;table cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; border=&quot;1&quot; style=&quot;font-size: 1em ; width: 100% ; height: 100%&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;th&gt;البريد الإلكتروني&lt;/th&gt;&lt;th&gt;الاسم&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;عرض - تعديل - حذف&lt;/td&gt;&lt;td&gt;email1@site.com&lt;/td&gt;&lt;td&gt;مدير ١&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;عرض - تعديل - حذف&lt;br&gt;&lt;/td&gt;&lt;td&gt;email2@site.com&lt;/td&gt;&lt;td&gt;مدير ٢&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt; " style="verticalAlign=top;align=right;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;shadow=0;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="240" width="530" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="B7E7dIONJrocs0yVwBSK-28" value="&lt;h1 style=&quot;font-size: 20px&quot;&gt;المدراء&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;sketch=1;fontSize=20;align=right;" parent="1" vertex="1">
+          <mxGeometry x="465" y="200" width="185" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="N3nH13avqgLZvzvTsGtK-5" value="المدراء" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="430" width="620" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="N3nH13avqgLZvzvTsGtK-7" value="&lt;h1 style=&quot;font-size: 20px&quot;&gt;أضف مدير&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;sketch=1;fontSize=20;align=right;" parent="1" vertex="1">
+          <mxGeometry x="465" y="497" width="185" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="N3nH13avqgLZvzvTsGtK-9" value="أضف مدير" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="120" y="200" width="130" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="N3nH13avqgLZvzvTsGtK-10" value="حفظ" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="520" y="750" width="130" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="N3nH13avqgLZvzvTsGtK-20" value="الاسم" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=right;fontColor=#696969;spacingRight=10;" parent="1" vertex="1">
+          <mxGeometry x="390" y="562.5" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N3nH13avqgLZvzvTsGtK-22" value="&lt;span style=&quot;color: rgb(128 , 128 , 128) ; font-size: 16px&quot;&gt;البريد الإلكتروني&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=right;fontColor=#696969;spacingRight=10;" parent="1" vertex="1">
+          <mxGeometry x="390" y="620" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N3nH13avqgLZvzvTsGtK-23" value="&lt;span style=&quot;color: rgb(128 , 128 , 128) ; font-size: 16px&quot;&gt;كلمة المرور&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=right;fontColor=#696969;spacingRight=10;" parent="1" vertex="1">
+          <mxGeometry x="390" y="670" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N3nH13avqgLZvzvTsGtK-24" value="المدراء" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="840" width="620" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="N3nH13avqgLZvzvTsGtK-25" value="&lt;h1 style=&quot;font-size: 20px&quot;&gt;تعديل مدير&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;sketch=1;fontSize=20;align=right;" parent="1" vertex="1">
+          <mxGeometry x="465" y="907" width="185" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="N3nH13avqgLZvzvTsGtK-26" value="حفظ" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="520" y="1160" width="130" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="N3nH13avqgLZvzvTsGtK-27" value="الاسم" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=right;fontColor=#696969;spacingRight=10;" parent="1" vertex="1">
+          <mxGeometry x="390" y="972.5" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N3nH13avqgLZvzvTsGtK-28" value="&lt;span style=&quot;color: rgb(128 , 128 , 128) ; font-size: 16px&quot;&gt;البريد الإلكتروني&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=right;fontColor=#696969;spacingRight=10;" parent="1" vertex="1">
+          <mxGeometry x="390" y="1030" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N3nH13avqgLZvzvTsGtK-29" value="&lt;span style=&quot;color: rgb(128 , 128 , 128) ; font-size: 16px&quot;&gt;كلمة المرور&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=right;fontColor=#696969;spacingRight=10;" parent="1" vertex="1">
+          <mxGeometry x="390" y="1080" width="260" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
